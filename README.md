@@ -1,0 +1,1 @@
+# Baldi Full Plugin Template

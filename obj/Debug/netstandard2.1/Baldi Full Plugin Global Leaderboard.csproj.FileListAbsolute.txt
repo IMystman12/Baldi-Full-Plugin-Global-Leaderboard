@@ -1,0 +1,125 @@
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.deps.json
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.pdb
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\0Harmony.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\AlmostEngine.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\AlmostEngine.Shared.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\com.unity.multiplayer-hlapi.Runtime.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Mono.Cecil.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Mono.Security.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\NavMeshComponents.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Rewired_Core.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Rewired_Windows.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.Configuration.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.Diagnostics.StackTrace.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.Globalization.Extensions.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\System.Xml.XPath.XDocument.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UModelerCommon.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.Analytics.DataPrivacy.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.ProGrids.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\Unity.Timeline.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TextCoreModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UIElementsNativeModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UNETModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\0Harmony.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.csproj.AssemblyReference.cache
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.AssemblyInfoInputs.cache
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.AssemblyInfo.cs
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.csproj.CoreCompileInputs.cache
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.sourcelink.json
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Fu.9CBE7DF3.Up2Date
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.dll
+E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\obj\Debug\netstandard2.1\Baldi Full Plugin Global Leaderboard.pdb

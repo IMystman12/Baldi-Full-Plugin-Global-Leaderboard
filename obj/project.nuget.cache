@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvJYVyDExw4=",
+  "success": true,
+  "projectFilePath": "E:\\baldi`s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\Baldi Full Plugin Global Leaderboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BDC\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\BDC\\.nuget\\packages\\playfaballsdk\\1.205.250718\\playfaballsdk.1.205.250718.nupkg.sha512",
+    "C:\\Users\\BDC\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

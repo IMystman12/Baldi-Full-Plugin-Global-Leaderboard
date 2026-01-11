@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baldi Full Plugin Global Leaderboard", "Baldi Full Plugin Global Leaderboard.csproj", "{4874A8E2-51FF-8C70-EF63-24A078D054DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4874A8E2-51FF-8C70-EF63-24A078D054DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4874A8E2-51FF-8C70-EF63-24A078D054DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4874A8E2-51FF-8C70-EF63-24A078D054DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4874A8E2-51FF-8C70-EF63-24A078D054DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13D99A4-A98F-49BA-B1F1-A76B8FDBF96F}
+	EndGlobalSection
+EndGlobal

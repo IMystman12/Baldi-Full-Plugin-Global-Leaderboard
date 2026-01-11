@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Baldi_Full_Plugin_Template
+build_property.ProjectDir = E:\baldi`s basics games\Plugins\Baldi Full Plugin Global Leaderboard\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|e:\\baldi\u0060s basics games\\plugins\\baldi full plugin global leaderboard\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|e:\\baldi\u0060s basics games\\plugins\\baldi full plugin global leaderboard\\leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|solutionrelative:leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|e:\\baldi\u0060s basics games\\plugins\\baldi full plugin global leaderboard\\fieldtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|solutionrelative:fieldtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|e:\\baldi\u0060s basics games\\plugins\\baldi full plugin global leaderboard\\endless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4874A8E2-51FF-8C70-EF63-24A078D054DE}|Baldi Full Plugin Global Leaderboard.csproj|solutionrelative:endless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Plugin.cs",
-              "DocumentMoniker": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\Plugin.cs",
-              "RelativeDocumentMoniker": "Plugin.cs",
-              "ToolTip": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\Plugin.cs",
-              "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAnwCQAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FieldTrip.cs",
+              "DocumentMoniker": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\FieldTrip.cs",
+              "RelativeDocumentMoniker": "FieldTrip.cs",
+              "ToolTip": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\FieldTrip.cs",
+              "RelativeToolTip": "FieldTrip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:50:05.078Z",
+              "WhenOpened": "2026-01-17T06:38:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endless.cs",
+              "DocumentMoniker": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\Endless.cs",
+              "RelativeDocumentMoniker": "Endless.cs",
+              "ToolTip": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\Endless.cs",
+              "RelativeToolTip": "Endless.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:38:34.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaderboardManager.cs",
+              "DocumentMoniker": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\LeaderboardManager.cs",
+              "RelativeDocumentMoniker": "LeaderboardManager.cs",
+              "ToolTip": "E:\\baldi\u0060s basics games\\Plugins\\Baldi Full Plugin Global Leaderboard\\LeaderboardManager.cs",
+              "RelativeToolTip": "LeaderboardManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:32:49.402Z",
               "EditorCaption": ""
             }
           ]

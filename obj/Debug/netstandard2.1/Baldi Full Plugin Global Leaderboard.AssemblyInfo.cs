@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baldi Full Plugin Global Leaderboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7d8f874030c83e6b2ee3ad001e1b80f389142b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4acbc78e83bdb023d0d32dc43ff451122aab5fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baldi Full Plugin Global Leaderboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baldi Full Plugin Global Leaderboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
